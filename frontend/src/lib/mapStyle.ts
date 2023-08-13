@@ -97,11 +97,11 @@ const mapStyle: StyleSpecification = {
   sources: {
     openmaptiles: {
       type: "vector",
-      url: "https://tiles.sydneybikemap.ethan.link/metadata.json",
+      url: "http://localhost:6002/metadata.json",
     },
     contours: {
       type: "vector",
-      url: "pmtiles://https://pmtiles.sydneybikemap.ethan.link/contours.pmtiles",
+      url: "pmtiles://http://localhost:6002/contours.pmtiles",
     },
   },
   glyphs: "/glyphs/{fontstack}/{range}.pbf",

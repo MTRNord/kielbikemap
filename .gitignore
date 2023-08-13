@@ -5,3 +5,7 @@ node_modules
 .env
 osmconvert64
 coastline
+*.zip
+bbox.poly_full
+*.tif
+*.TIF

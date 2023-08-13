@@ -1,10 +1,10 @@
 {
-  "name": "sydneybikemap",
+  "name": "kielbikemap",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "node generateSprites.js && vite",
+    "dev": "node generateSprites.js && vite --host",
     "build": "node generateSprites.js && vite build",
     "preview": "node generateSprites.js && vite preview",
     "check": "node generateSprites.js && svelte-check --tsconfig ./tsconfig.json"

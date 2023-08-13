@@ -12,14 +12,14 @@ export default defineConfig({
     VitePWA({
       registerType: "prompt",
       manifest: {
-        id: "sydneybikemap",
-        name: "SydneyBikeMap",
-        short_name: "SydneyBikeMap",
+        id: "kielbikemap",
+        name: "KielBikeMap",
+        short_name: "KielBikeMap",
         display: "standalone",
         start_url: "/?utm_source=web_app_manifest&utm_medium=start_url",
         theme_color: "#ffffff",
         background_color: "#ffffff",
-        description: "Your guide to Sydney’s cycle network 🚲️",
+        description: "Your guide to Kiel’s cycle network 🚲️",
         categories: ["navigation", "transportation"],
         icons: [
           {

@@ -38,7 +38,7 @@
     style:max-height={expanded ? "100vh" : 0}
   >
     <div class="flex flex-col gap-3 p-3 pt-0">
-      <section><p>Your guide to Sydney&rsquo;s cycle network 🚲️</p></section>
+      <section><p>Your guide to Kiel&rsquo;s cycle network 🚲️</p></section>
       <Legend />
       <section>
         <div class="text-xs mt-1">

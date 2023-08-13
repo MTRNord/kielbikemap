@@ -1,6 +1,7 @@
 # Geoscience Australia extracts
-5m_DEM.tif
-5m_DEM_*.zip
+*.tif
+*.TIF
+*.zip
 
 # Intermediate files
 contours.geojson
